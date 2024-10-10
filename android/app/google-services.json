@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047896275225",
+    "project_id": "shopsmartar-db44f",
+    "storage_bucket": "shopsmartar-db44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047896275225:android:212d9bd2349dc28af8ad88",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAulr7U3nEiWACcl_E5U2PW-T7qvnFfHTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
